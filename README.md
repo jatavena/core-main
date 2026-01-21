@@ -1,7 +1,8 @@
 # WHAT IS THIS REPOSITORY?
 This repository is a personal copy of the basis for our documentation site for ECSP1 - Project: https://core-e28f4a.pages.labranet.jamk.fi/#project-ecsp1-ecommerce-server-platform-v10. The original repository also served as project management platform to track issue boards, project backlog, and sprints.
 
-No code from the project is found here. My duties in the project were mostly concerned with managing issues related to the security of the project and the e-commerce platform. This was a team effort, but you can see my contributions in [project plan](/docs/10-Project-management/project-plan.md), 
+No code from the project is found here. My duties in the project were mostly concerned with managing issues related to the security of the project and the e-commerce platform. This was a team effort, but you can see my (Jarmo Venäläinen) contributions in [project plan](/docs/10-Project-management/project-plan.md), [risk management document](/docs/10-Project-management/risk-management.md), [security features document](/docs/30-Architecture-and-design/security-features.md), and [a guide to modsecurity](/docs/80-Documents-and-reporting
+/modsecurity.md).
 
 # ECSP1 & OHTU 2025
 During 17.03.2025 - 12.09.2025 I participated in a comprehensive Modern Software Production education program (OHTU 2025) organized by Jyväskylä University of Applied Science (JAMK) that provided in-depth exposure to software production concepts, techniques, and methodologies. This intensive program was designed for individuals seeking to master the complete software development lifecycle, including defining, designing, implementing, and testing software solutions. The course was delivered primarily through online contact teaching and guided distance learning, bringing together 12 carefully selected participants for an immersive learning experience that combined theoretical knowledge with practical application.
