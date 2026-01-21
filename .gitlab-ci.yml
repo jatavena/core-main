@@ -1,0 +1,10 @@
+image: gitlab.labranet.jamk.fi:4567/tools-and-services/mkdocs-lightgallery
+pages:
+    script:
+        - mkdocs build
+    artifacts:
+        paths:
+            - public
+    tags:
+        - general
+

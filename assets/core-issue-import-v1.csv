@@ -1,0 +1,3343 @@
+Title,Description,Issue ID,URL,State,Author,Author Username,Assignee,Assignee Username,Confidential,Locked,Due Date,Created At (UTC),Updated At (UTC),Closed At (UTC),Milestone,Weight,Labels,Time Estimate,Time Spent,Epic ID,Epic Title
+Essence Alpha - OPPORTUNITY,"# OPPORTUNITY
+
+**Identified**
+
+- [ ] An idea for a way of improving current ways of working, increasing market share or applying a new or innovative software system has been identified.
+- [ ] At least one of the stakeholders wishes to make an investment in better understanding the opportunity and the value associated with addressing it.
+- [ ] The other stakeholders who share the opportunity have been identified.
+
+**Solution Needed**
+
+- [ ] The stakeholders in the opportunity and the proposed solution have been identified.
+- [ ] The stakeholders' needs that generate the opportunity have been established.
+Any underlying problems and their root causes have been identified.
+- [ ] It has been confirmed that a software-based solution is needed.
+- [ ] At least one software-based solution has been proposed.
+
+**Value Established**
+
+- [ ] The value of addressing the opportunity has been quantified either in absolute terms or in returns or savings per time period (e.g. per annum).
+- [ ] The impact of the solution on the stakeholders is understood.
+- [ ] The value that the software system offers to the stakeholders that fund and use the software system is understood.
+- [ ] The success criteria by which the deployment of the software system is to be judged are clear.
+- [ ] The desired outcomes required of the solution are clear and quantified.
+
+**Viable**
+
+- [ ] A solution has been outlined.
+- [ ] The indications are that the solution can be developed and deployed within constraints.
+- [ ] The risks associated with the solution are acceptable and manageable.
+- [ ] The indicative (ball-park) costs of the solution are less than the anticipated value of the opportunity.
+- [ ] The reasons for the development of a software-based solution are understood by all members of the team.
+- [ ] It is clear that the pursuit of the opportunity is viable.
+
+**Addressed**
+
+- [ ] A usable system that demonstrably addresses the opportunity is available.
+- [ ] The stakeholders agree that the available solution is worth deploying.
+- [ ] The stakeholders are satisfied that the solution produced addresses the opportunity.
+
+**Benefit Accurued**
+
+- [ ] The solution has started to accrue benefits for the stakeholders.
+- [ ] The return-on-investment profile is at least as good as anticipated.",1,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/1,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:32,2025-03-20 14:16:11,,Backlog,,"alpha card::opportunity,statistic::do not close or delete",0,0,,
+Essence Alpha - WORK,"# WORK
+
+**Initiated**
+
+- [ ] The result required of the work being initiated is clear.
+- [ ] Any constraints on the work?s performance are clearly identified.
+- [ ] The stakeholders that will fund the work are known.
+- [ ] The initiator of the work is clearly identified.
+- [ ] The stakeholders that will accept the results are known.
+- [ ] The source of funding is clear.
+- [ ] The priority of the work is clear.
+
+**Prepared**
+
+- [ ] Commitment is made.
+- [x] Cost and effort of the work are estimated.
+- [ ] Resource availability is understood.
+- [ ] Governance policies and procedures are clear.
+- [x] Risk exposure is understood.
+- [ ] Acceptance criteria are defined and agreed with client.
+- [ ] The work is broken down sufficiently for productive work to start.
+- [ ] Tasks have been identified and prioritized by the team and stakeholders.
+- [ ] A credible plan is in place.
+- [ ] Funding to start the work is in place.
+- [ ] The team or at least some of the team members are ready to start the work.
+- [ ] Integration and delivery points are defined.
+
+**Started**
+
+- [x] Development work has been started.
+- [x] Work progress is monitored.
+- [ ] The work is being broken down into actionable work items with clear definitions of done.
+- [ ] Team members are accepting and progressing tasks.
+
+**Under Control**
+
+- [ ] Tasks are being completed.
+- [ ] Unplanned work is under control.
+- [ ] Risks are under control as the impact if they occur and the likelihood of them occurring have been reduced to acceptable levels.
+- [ ] Estimates are revised to reflect the team?s performance.
+- [ ] Measures are available to show progress and velocity.
+- [ ] Re-work is under control.
+- [ ] Tasks are consistently completed on time and within their estimates.
+
+**Concluded**
+
+- [ ] All outstanding tasks are administrative housekeeping or related to preparing the next piece of work.
+- [ ] Work results have been achieved.
+- [ ] The stakeholder(s) has accepted the resulting software system.
+
+**Closed**
+
+- [ ] Lessons learned have been itemized, recorded and discussed.
+- [ ] Metrics have been made available.
+- [ ] Everything has been archived.
+- [ ] The budget has been reconciled and closed.
+- [ ] The team has been released.
+- [ ] There are no outstanding, uncompleted tasks.",2,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/2,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:32,2025-03-20 14:16:24,,Backlog,,"alpha card::work,statistic::do not close or delete",0,0,,
+Essence Alpha - REQUIREMENTS,"# REQUIREMENTS
+
+**Conceived**
+
+- [ ] The initial set of stakeholders agrees that a system is to be produced.
+- [ ] The stakeholders that will use the new system are identified.
+- [ ] The stakeholders that will fund the initial work on the new system are identified.
+- [ ] There is a clear opportunity for the new system to address.
+
+**Bounded**
+
+- [ ] The stakeholders involved in developing the new system are identified.
+- [ ] The stakeholders agree on the purpose of the new system.
+- [ ] It is clear what success is for the new system.
+- [ ] The stakeholders have a shared understanding of the extent of the proposed solution.
+- [ ] The way the requirements will be described is agreed upon.
+- [ ] The mechanisms for managing the requirements are in place.
+- [ ] The prioritization scheme is clear.
+- [ ] Constraints are identified and considered.
+- [ ] Assumptions are clearly stated.
+
+**Coherent**
+
+- [ ] The requirements are captured and shared with the team and the stakeholders.
+- [ ] The origin of the requirements is clear.
+- [ ] The rationale behind the requirements is clear.
+- [ ] Conflicting requirements are identified and attended to.
+- [ ] The requirements communicate the essential characteristics of the system to be delivered.
+- [ ] The most important usage scenarios for the system can be explained.
+- [ ] The priority of the requirements is clear.
+- [ ] The impact of implementing the requirements is understood.
+- [ ] The team understands what has to be delivered and agrees to deliver it.
+
+**Acceptable**
+
+- [ ] The stakeholders accept that the requirements describe an acceptable solution.
+- [ ] The rate of change to the agreed requirements is relatively low and under control.
+- [ ] The value provided by implementing the requirements is clear.
+- [ ] The parts of the opportunity satisfied by the requirements are clear.
+- [ ] The requirements are testable.
+
+**Addressed**
+
+- [ ] Enough of the requirements are addressed for the resulting system to be acceptable to the stakeholders.
+- [ ] The stakeholders accept the requirements as accurately reflecting what the system does and does not do.
+- [ ] The set of requirement items implemented provide clear value to the stakeholders.
+- [ ] The system implementing the requirements is accepted by the stakeholders as worth making operational.
+
+**Fulfilled**
+
+- [ ] The stakeholders accept the requirements as accurately capturing what they require to fully satisfy the need for a new system.
+- [ ] There are no outstanding requirement items preventing the system from being accepted as fully satisfying the requirements.
+- [ ] The system is accepted by the stakeholders as fully satisfying the requirements.",3,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/3,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:33,2025-03-20 14:16:41,,Backlog,,"alpha card::requirements,statistic::do not close or delete",0,0,,
+Essence Alpha - STAKEHOLDERS,"# STAKEHOLDERS
+
+**Recognized**
+
+- [ ] All the different groups of stakeholders that are, or will be, affected by the development and operation of the software system are identified.
+- [ ] There is agreement on the stakeholder groups to be represented. At a minimum, the stakeholders groups that fund, use, support, and maintain the system have been considered.
+- [ ] The responsibilities of the stakeholder representatives have been defined.
+
+**Represented**
+
+- [ ] The stakeholder representatives have agreed to take on their responsibilities.
+- [ ] The stakeholder representatives are authorized to carry out their responsibilities.
+- [ ] The collaboration approach among the stakeholder representatives has been agreed.
+- [ ] The stakeholder representatives support and respect the team's way of working.
+
+**Involved**
+
+- [ ] The stakeholder representatives assist the team in accordance with their responsibilities.
+- [ ] The stakeholder representatives provide feedback and take part in decision making in a timely manner.
+- [ ] The stakeholder representatives promptly communicate changes that are relevant for their stakeholder groups.
+
+**In Agreement**
+
+- [ ] The stakeholder representatives have agreed upon their minimal expectations for the next deployment of the new system.
+- [ ] The stakeholder representatives are happy with their involvement in the work.
+- [ ] The stakeholder representatives agree that their input is valued by the team and treated with respect.
+- [ ] The team members agree that their input is valued by the stakeholder representatives and treated with respect.
+- [ ] The stakeholder representatives agree with how their different priorities and perspectives are being balanced to provide a clear direction for the team.
+
+**Satisfied for deployment**
+
+- [ ] The stakeholder representatives provide feedback on the system from their stakeholder group perspective.
+- [ ] The stakeholder representatives confirm that they agree that the system is ready for deployment.
+
+**Satisfied in Use**
+
+- [ ] Stakeholders are using the new system and providing feedback on their experiences.
+- [ ] The stakeholders confirm that the new system meets their expectations.",4,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/4,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:33,2025-03-20 14:16:56,,Backlog,,"alpha card::stakeholders,statistic::do not close or delete",0,0,,
+Essence Alpha - SOFTWARE SYSTEM,"# SOFTWARE SYSTEM
+
+**Architecture Selected**
+
+- [ ] The criteria to be used when selecting the architecture have been agreed on.
+- [ ] Hardware platforms have been identified.
+- [ ] Programming languages and technologies to be used have been selected.
+- [ ] System boundary is known.
+- [ ] Significant decisions about the organization of the system have been made.
+- [ ] Buy, build and reuse decisions have been made.
+
+**Demonstrable**
+
+- [ ] Key architectural characteristics have been demonstrated.
+- [ ] The system can be exercised and its performance can be measured.
+- [ ] Critical hardware configurations have been demonstrated.
+- [ ] Critical interfaces have been demonstrated.
+- [ ] The integration with other existing systems has been demonstrated.
+- [ ] The relevant stakeholders agree that the demonstrated architecture is appropriate.
+
+**Usable**
+
+- [ ] The system can be operated by stakeholders who use it.
+- [ ] The functionality provided by the system has been tested.
+- [ ] The performance of the system is acceptable to the stakeholders.
+- [ ] Defect levels are acceptable to the stakeholders.
+- [ ] The system is fully documented.
+- [ ] Release content is known.
+- [ ] The added value provided by the system is clear.
+
+**Ready**
+
+- [ ] Installation and other user documentation are available.
+- [ ] The stakeholder representatives accept the system as fit-for-purpose.
+- [ ] The stakeholder representatives want to make the system operational.
+- [ ] Operational support is in place.
+
+**Operational**
+
+- [ ] The system has been made available to the stakeholders intended to use it.
+- [ ] At least one example of the system is fully operational.
+- [ ] The system is fully supported to the agreed service levels.
+
+**Retired**
+
+- [ ] The system has been replaced or discontinued.
+- [ ] The system is no longer supported.
+- [ ] There are no ?official? stakeholders who still use the system.
+- [ ] Updates to the system will no longer be produced.",5,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/5,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:33,2025-03-20 14:17:12,,Backlog,,"alpha card::system software,statistic::do not close or delete",0,0,,
+Essence Alpha - TEAM,"# TEAM
+
+**Seeded**
+
+- [ ] The team mission has been defined in terms of the opportunities and outcomes.
+- [ ] Constraints on the team's operation are known.
+- [ ] Mechanisms to grow the team are in place.
+- [ ] The composition of the team is defined.
+- [ ] Any constraints on where and how the work is carried out are defined.
+- [ ] The team's responsibilities are outlined.
+- [ ] The level of team commitment is clear.
+- [ ] Required competencies are identified.
+- [ ] The team size is determined.
+- [ ] Governance rules are defined.
+- [ ] Leadership model is selected.
+
+**Formed**
+
+- [ ] Individual responsibilities are understood.
+- [ ] Enough team members have been recruited to enable the work to progress.
+- [ ] Every team member understands how the team is organized and what their individual role is.
+- [ ] All team members understand how to perform their work.
+- [ ] The team members have met (perhaps virtually) and are beginning to get to know each other
+- [ ] The team members understand their responsibilities and how they align with their competencies.
+- [ ] Team members are accepting work.
+- [ ] Any external collaborators (organizations, teams and individuals) are identified.
+- [ ] Team communication mechanisms have been defined.
+
+**Collaborating**
+
+- [ ] Each team member commits to working on the team as defined.
+- [ ] The team is working as one cohesive unit.
+- [ ] Communication within the team is open and honest.
+- [ ] The team is focused on achieving the team mission.
+- [ ] The team members know each other.
+
+**Performing**
+
+- [ ] The team consistently meets its commitments.
+- [ ] The team continuously adapts to the changing context.
+- [ ] The team identifies and addresses problems without outside help.
+- [ ] Effective progress is being achieved with minimal avoidable backtracking and reworking.
+- [ ] Wasted work, and the potential for wasted work are continuously eliminated.
+
+**Adjourned**
+
+- [ ] The team responsibilities have been handed over or fulfilled.
+- [ ] The team members are available for assignment to other teams.
+- [ ] No further effort is being put in by the team to complete the mission.",6,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/6,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:34,2025-03-20 14:17:23,,Backlog,,"alpha card::team,statistic::do not close or delete",0,0,,
+Essence Alpha - WAY OF WORKING,"# Alpha Essence Card - WAY OF WORKING
+
+**Principles Established**
+
+- [ ] Principles and constraints are committed to by the team.
+- [ ] Principles and constraints are agreed to by the stakeholders.
+- [ ] The tool needs of the work and its stakeholders are agreed.
+- [ ] A recommendation for the approach to be taken is available.
+- [ ] The context within which the team will operate is understood.
+- [ ] The constraints that apply to the selection, acquisition and use of practices and tools are known.
+
+**Foundation Established**
+
+- [ ] The key practices and tools that form the foundation of the way-of-working are selected.
+- [ ] Enough practices for work to start are agreed to by the team.
+- [ ] All non-negotiable practices and tools have been identified.
+- [ ] The gaps that exist between the practices and tools that are needed and the practices and tools that are available have been analyzed and understood.
+- [ ] The capability gaps that exist between what is needed to execute the desired way of working and the capability levels of the team have been analyzed and understood.
+- [ ] The selected practices and tools have been integrated to form a usable way-of-working.
+
+**In Use**
+
+- [ ] The practices and tools are being used to do real work.
+- [ ] The use of the practices and tools selected are regularly inspected.
+- [ ] The practices and tools are being adapted to the team?s context.
+- [ ] The use of the practices and tools is supported by the team.
+- [ ] Procedures are in place to handle feedback on the team?s way of working.
+- [ ] The practices and tools support team communication and collaboration.
+
+**In Place**
+
+- [ ] The practices and tools are being used by the whole team to perform their work.
+- [ ] All team members have access to the practices and tools required to do their work.
+- [ ] The whole team is involved in the inspection and adaptation of the way-of-working.
+
+**Working well**
+
+- [ ] Team members are making progress as planned by using and adapting the way-of-working to suit their current context.
+- [ ] The team naturally applies the practices without thinking about them
+- [ ] The tools naturally support the way that the team works.
+- [ ] The team continually tunes their use of the practices and tools.
+
+**Retired**
+
+- [ ] The team's way of working is no longer being used.
+- [ ] Lessons learned are shared for future use.",7,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/7,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:34,2025-03-20 14:17:36,,Backlog,,"alpha card::way of working,statistic::do not close or delete",0,0,,
+"Example of User Story: As a < type of user >, I want < some goal > so that < some reason >","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+## Definition of Done
+
+[Link to common definition of done description](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-2021-ttc2070-core-template-v1/-/blob/master/dokumentit/10-Projektihallinta/definition_of_done.md)
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] Other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()",8,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/8,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:34,2025-03-20 14:23:54,,Backlog,,user story::proposed,0,0,,
+How we are doing?,"# What is current feeling inside project?
+
+Team/Project internal feel indicator
+
+* Cross as many needed
+
+- [ ] 1 cross = Level 1/5 (Lousy-)
+- [ ] 2 crosses = Level 2/5
+- [ ] 3 crosses = Level 3/5
+- [ ] 4 crosses = Level 4/5
+- [ ] 5 crosses = Level 5/5 (Awesome!)",9,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/9,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:34,2025-03-20 14:27:25,,Backlog,,statistic::do not close or delete,0,0,,
+Example of Documentation Task,"# What should be done?
+
+1. Update issue topic according description
+2. ..
+3. ..
+
+# Responsible
+
+* name/stakeholder
+
+# Links & Sources",10,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/10,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:34,2025-03-20 14:21:44,,Backlog,,task::general,0,0,,
+Example of General Task,"# General task
+
+Describe what should be done?
+
+1. Update issue topic according description
+2. ..
+3. ..
+
+**Who should work for this?**
+
+
+**Checklist as a starter**
+
+- [ ] Do X
+- [ ] Do Y",11,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/11,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:35,2025-03-20 14:21:44,,Backlog,,task::general,0,0,,
+Example of Feature Proposal,"# Feature proposal / Enhancement
+
+(Summarize the feature / enhancemen proposal)
+
+
+
+
+## What is the current need for feature/enhancement?
+
+
+
+## Who are stakeholders
+
+
+## Relevant links and/or screenshots
+
+(Paste any relevant links)",12,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/12,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:35,2025-03-20 14:34:08,,Backlog,,feature::proposal,0,0,,
+BUG2000 - No confirmation email is received in the registered email inbox. The user remains unverified. - EXAMPLE,"## Summary
+
+During the testing of the user registration process, I encountered an issue where new users are unable to receive a confirmation email after registering. This prevents them from completing the registration process and logging into the system.
+
+**Steps to reproduce**
+
+1. Go to the registration page.
+1. Fill out the registration form with valid information.
+1. Click the ""Register"" button.
+
+**What is the current bug behavior?**
+
+
+1. No confirmation email is received in the registered email inbox. The user remains unverified.
+
+**What is the expected correct behavior?**
+
+1. After successful registration, a confirmation email should be sent to the user's registered email address.
+
+**Relevant logs and/or screenshots**
+
+1. This issue was replicated on both the development and staging environments.
+I have verified that the email address provided during registration is correct.
+Other email notifications from the system (e.g., password reset emails) appear to be working as expected.
+
+
+## Possible fixes
+
+(If you can, link to the line of code that might be responsible for the problem)",13,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/13,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:35,2025-03-20 14:26:02,,Backlog,,bug::new,0,0,,
+US1000- Updating User Profile Description - EXAMPLE,"# Description:
+
+As a user, I want to update my profile description so that I can share more information about myself with other users.
+
+It is possible to navigate back to the profile view from the editing view without saving changes.
+
+This user story describes a situation where a user wants to update their profile description in a web application. The acceptance criteria clearly define what functionalities need to be implemented and what is expected to happen for the user story to be considered complete and accepted.
+
+## Linked Requirements & Use Cases? 
+
+* [FuncRequirement001 - It is possible to navigate back to the profile view from the editing view without saving changes]()
+* [Link to Use Case]()
+* [Link to other material]
+
+## Definition of Done
+
+[Link to common definition of done description](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-2021-ttc2070-core-template-v1/-/blob/master/dokumentit/10-Projektihallinta/definition_of_done.md)
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+Acceptance Criteria:
+
+- [ ] The user can log in to their account.
+- [ ] The user is directed to the profile editing view.
+- [ ] The user can see their current description in a text field.
+- [ ] The user can freely write and edit the description.
+- [ ] A character limit is displayed during description editing, and the limit must not be exceeded.
+- [ ] The user can save the changes made.
+- [ ] After saving, the updated description is displayed on the user's public profile.
+- [ ] The user receives a confirmation notification of a successful description update.
+- [ ] In case the save fails due to a technical error, an error message is displayed, and the user is given the option to retry.",14,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/14,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:35,2025-03-20 14:18:59,,Backlog,,user story::proposed,0,0,,
+Example of Enhancement Request-  User Activity Tracking,"#  Enhancement/ Feature proposal (template)
+
+The customer works in the field of human resource management and regularly uses our software product for personnel management. The customer's organization has identified a need for more precise tracking of employees' activity and productivity.
+
+
+## What is the current need for feature/enhancement?
+
+The customer proposes a new feature that would enable tracking of user activity within the software. This could include the following components:
+
+1. Activity Measurement: The software could collect data on how long each employee is logged into the system daily, how many tasks they complete, and how much time they spend on different functions within the software.
+
+1. Reporting and Visualization: The software would provide reporting tools allowing the organization to review user activity data. This could include daily, weekly, and monthly reports, as well as graphical visualizations.
+
+1. Alerts: Users could set alerts that trigger if, for instance, specific activity targets are not met. Such alerts could help the organization respond promptly to any deviations.
+
+
+The customer's proposed development idea could bring significant added value to our software product and its users, helping the organization improve its performance and resource management. The development team should now assess the technical feasibility of the proposal and prioritize it as needed within the product development roadmap.
+
+## Who are stakeholders
+
+1. The customer has expressed a need to closely monitor employee activity in their work. This could provide added value to the organization, allowing it to ensure resources are utilized efficiently and that specific functions are neither underutilized nor overutilized.
+
+## Relevant links and/or screenshots
+
+(Paste any relevant links)",15,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/15,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:35,2025-03-20 14:34:08,,Backlog,,feature::proposal,0,0,,
+Example of Test Case: Verify login with wrong password,"### Test case ID : TCID1234
+
+* Test case designer: *name*
+* Date of creation : 26.0x.20xx
+
+### Update history
+
+* version 0.1 - 26.0x.20xx - Narsuman - test case created
+
+### Test case description
+
+What are we testing?
+
+### Source for the test
+
+What is the test based on? List any relevant features or requirements here.
+
+* [E.g. Use Case](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-kayttotapauskuvaus.md)
+* [E.g. Feature](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md)
+
+### Pre-state:
+
+* What should be ready before running the test?
+
+### Test Steps
+
+Step and expected result
+
+1. Step
+1. Step
+1. Step
+1. Step
+1. Step
+1. Step
+1. Step
+1. Step
+
+### To be taken into account during test
+
+* notion 1
+
+### PASS/FAIL Criteria
+
+* PASS:
+* FAIL:",16,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/16,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:35,2025-03-20 14:28:18,,,,Test Case::Idea,0,0,,
+Example of Risk Issue,"# Risk Example: Unrealistic Project Deadlines
+
+## Description
+The project timeline may be too aggressive, leading to rushed development and potential quality issues.
+This risk is common in software development projects, especially when the scope of the project is not well defined or understood. It's important to manage this risk effectively to ensure the successful delivery of the project.
+
+
+## Category
+Project Management
+
+## Probability
+High
+
+## Impact
+If the project is rushed to meet unrealistic deadlines, it could lead to bugs in the software, poor user experience, and ultimately, damage to the company's reputation.
+
+## Mitigation Strategy
+- Regularly review and update the project schedule.
+- Ensure that project timelines are realistic and take into account potential delays.
+- Implement agile methodologies to allow for flexibility in development.
+
+## Owner
+Project Manager
+
+## Status
+Identified",17,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/17,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:36,2025-03-20 14:33:54,,Backlog,,risk::new,0,0,,
+US103 As a tester I would like to be able test our service using Robot Framework,"# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the Feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/41)
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",18,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/18,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:36,2025-03-20 14:18:59,,Backlog,,user story::proposed,0,0,,
+US103: Robot framework testing,"**Verify test case**
+
+* Test case designer: tester1
+* Date of creation 11.3.2025
+
+**Test description / objective**
+
+Makes sure test automation cases work
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA067/)
+
+**Test pre-state**
+
+* All of the above functionalities are set up
+
+**Test steps**
+
+1. Have a broken feature
+2. Run Robot Framework code
+3. Expect test to report back
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature is implemented and works
+
+**To be taken into account during test**
+
+**Test result (Pass/Fail Criteria)**
+
+* PASS condition:
+  * Robot Framework is in use
+  * It works
+* FAIL condition:
+  * Robot Framework code fails due to failed implementation",19,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/19,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:36,2025-03-20 14:18:59,,,,user story::proposed,0,0,,
+"US123 As a test engineer I want to automate checking that all product pages load properly, so that customers can browse products without errors","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the Feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/41)
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",20,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/20,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:36,2025-03-20 14:18:59,,Backlog,,user story::proposed,0,0,,
+US123: Check that all products load,"**Verify test case**
+
+* Test case designer: tester1
+* Date of creation 11.3.2025
+
+**Test description / objective**
+
+Makes sure test automation cases work
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA067/)
+
+**Test pre-state**
+
+* All of the above functionalities are set up
+
+**Test steps**
+
+1. Make a robot framework script to load all products
+2. Expect the test to pass
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature is implemented and works
+
+**To be taken into account during test**
+
+**Test result (Pass/Fail Criteria)**
+
+* PASS condition:
+  * Robot Framework test passes
+* FAIL condition:
+  * Robot Framework test fails",21,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/21,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:36,2025-03-20 14:19:00,,,,user story::proposed,0,0,,
+"US114 As a store owner, I want the system to be tested after bug fixes, so that my customers do not experience new issues after an update","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/40)
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",22,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/22,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:37,2025-03-20 14:19:00,,Backlog,,user story::proposed,0,0,,
+US114: Tested after bugfixes,"**Verify test case**
+
+* Test case designer: tester1
+* Date of creation 11.3.2025
+
+**Test description / objective**
+
+Makes sure regression tests work
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA086/)
+
+**Test pre-state**
+
+* Regression testing is setup
+
+**Test steps**
+
+1. Have someone break an old feature
+2. Expect regression test to find out that its broken
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature is implemented and works
+
+**To be taken into account during test**
+
+**Test result (Pass/Fail Criteria)**
+
+* PASS condition:
+  * All of the above expectations happen
+* FAIL condition:
+  * At least one of the above expectations fail",23,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/23,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:37,2025-03-20 14:19:00,,,,user story::proposed,0,0,,
+"US102 As a Developer, I want to integrate test automation tools with the Docker CI/CD pipeline so that tests are automatically triggered on new code commits and deployments","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the Feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/42)
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",24,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/24,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:37,2025-03-20 14:19:00,,Backlog,,user story::proposed,0,0,,
+US102: Test automation integrated into the docker CI/CD pipeline,"**Verify test case**
+
+* Test case designer: tester1
+* Date of creation 11.3.2025
+
+**Test description / objective**
+
+Makes sure tests run automatically in docker
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA002/)
+
+**Test pre-state**
+
+* Test automation is integrated into the docker CI/CD pipeline
+
+**Test steps**
+
+1. Push code with bugs into docker
+2. Expect test to automatically run
+3. Expect the test to fail and report back
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature works or doesn't work as intended
+
+**Test result (Pass/Fail Criteria)**
+
+* PASS condition:
+  * All of the above expectations happen
+* FAIL condition:
+  * At least one of the above expectations fail",25,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/25,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:37,2025-03-20 14:19:00,,,,user story::proposed,0,0,,
+"US002: As a test engineer, I need the pipeline to automatically run unit tests, integration tests, and other tests so that I can be sure that the system is working well","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/32)
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",26,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/26,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:38,2025-03-20 14:19:24,,Sprint 04,,user story::proposed,0,0,,
+US002: Pipeline can automatically run all test types,"**Verify test case**
+
+* Test case designer: tester1
+* Date of creation 11.3.2025
+
+**Test description / objective**
+
+Make sure CI/CD pipeline works for all test types
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA021/)
+
+**Test pre-state**
+
+* CI/CD pipeline setup for all test types
+
+**Test steps**
+
+1. Deploy code
+2. Expect tests to run automatically
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature works or doesn't work as intended
+
+**Test result (Pass/Fail Criteria)**
+
+* PASS condition:
+  * All of the above expectations happen
+* FAIL condition:
+  * At least one of the above expectations fail",27,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/27,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:38,2025-03-20 14:19:24,,,,user story::proposed,0,0,,
+Password in URL,"## Summary
+
+https://gitlab.labranet.jamk.fi/replace-with-your-repository/presta-shop-code-x/-/security/vulnerabilities/106174
+
+
+Steps to reproduce
+
+(How one can reproduce the issue - this is very important)
+
+
+## What is the current bug behavior?
+
+(What actually happens)
+
+
+## What is the expected correct behavior?
+
+(What you should see instead)
+
+
+## Relevant logs and/or screenshots
+
+(Paste any relevant logs - please use code blocks (```) to format console output,
+logs, and code as it's very hard to read otherwise.)
+
+
+## Possible fixes
+
+(If you can, link to the line of code that might be responsible for the problem)",28,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/28,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:38,2025-03-20 14:26:02,,Backlog,,bug::new,0,0,,
+Improper control of filename for include/require statement in PHP program,"## Summary
+
+https://gitlab.labranet.jamk.fi/replace-with-your-repository/presta-shop-code-x/-/security/vulnerabilities/106077
+
+
+Steps to reproduce
+
+(How one can reproduce the issue - this is very important)
+
+
+## What is the current bug behavior?
+
+(What actually happens)
+
+
+## What is the expected correct behavior?
+
+(What you should see instead)
+
+
+## Relevant logs and/or screenshots
+
+(Paste any relevant logs - please use code blocks (```) to format console output,
+logs, and code as it's very hard to read otherwise.)
+
+
+## Possible fixes
+
+(If you can, link to the line of code that might be responsible for the problem)",29,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/29,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:38,2025-03-20 14:26:01,,Backlog,,bug::new,0,0,,
+Inconsistent filters,"## Summary
+
+No signal what filters are selected on colors. No ""checkmark"".
+
+
+Steps to reproduce
+
+Go to browse items, and select a color filter. No checkmark appears
+
+
+## What is the current bug behavior?
+
+No clear indication what is selected.
+
+
+## What is the expected correct behavior?
+
+Should show a checkmark to indicate selected filter.
+
+
+## Relevant logs and/or screenshots
+
+![kuva](/uploads/ab4fe747e007ce10a28a9539b74b96a0/kuva.png)
+
+
+## Possible fixes
+
+(If you can, link to the line of code that might be responsible for the problem)",30,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/30,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:38,2025-03-20 14:26:01,,Backlog,,bug::new,0,0,,
+Translation incomplete,"## Summary
+
+When selecting ""Suomi"" as language, some texts stay in English.
+
+
+Steps to reproduce
+
+Swap language, and go to for example the clothes page.
+
+
+## What is the current bug behavior?
+
+Language doesn't change.
+
+
+## What is the expected correct behavior?
+
+Text should be in Finnish.
+
+
+## Relevant logs and/or screenshots
+
+![kuva](/uploads/59404ad05563189b96d1eb228cd1ab7e/kuva.png)
+
+
+## Possible fixes
+
+(If you can, link to the line of code that might be responsible for the problem)",31,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/31,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:38,2025-03-20 14:26:01,,Backlog,,bug::new,0,0,,
+"US001: As an operations engineer, I need the pipeline to deploy the software to different environments (e.g., staging, production) so that updated versions are delivered rapidly and reliably",* [Link to the feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/32),32,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/32,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:39,2025-03-20 14:19:24,,Sprint 05 - Gate 2,,user story::proposed,0,0,,
+US001: Deploy software to different environments,"**Verify test case**
+
+* Test case designer: tester1
+* Date of creation 14.3.2025
+
+**Test description / objective**
+
+Make sure CI/CD pipeline works for all test types
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA021/)
+
+**Test pre-state**
+
+* CI/CD pipeline setup for all test types
+
+**Test steps**
+
+1. Deploy changes
+2. Expect software to deploy to different environments
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature works or doesn't work as intended
+
+**Test result (Pass/Fail Criteria)**
+
+* PASS condition:
+  * All of the above expectations happen
+* FAIL condition:
+  * At least one of the above expectations fail",33,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/33,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:39,2025-03-20 14:19:24,,,,user story::proposed,0,0,,
+Uncler password requirements,"## Summary
+
+Did not receive message regarding the type of password needed when creating account.
+
+
+Steps to reproduce
+
+Create account and begin writing a password.
+
+
+## What is the current bug behavior?
+
+No indication of recommendations or requirements in password creation.
+
+
+## What is the expected correct behavior?
+
+Guidelines like, ""should have atleast 8 characters"" etc.
+
+
+## Relevant logs and/or screenshots
+
+![kuva](/uploads/1779cb17986381aba980b7f86375f01a/kuva.png)
+
+
+## Possible fixes
+
+(If you can, link to the line of code that might be responsible for the problem)",34,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/34,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:39,2025-03-20 14:26:01,,Backlog,,bug::new,0,0,,
+"US126 As a developer I want to spin up a test environment with a single command, so that I can test my code without setting up dependencies manually.","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the Feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/42)
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",35,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/35,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:39,2025-03-20 14:19:00,,Backlog,,user story::proposed,0,0,,
+US126: Test environment with a single command,"**Verify test case**
+
+* Test case designer: tester1
+* Date of creation 14.3.2025
+
+**Test description / objective**
+
+Verify that you can make a test environment with a single command
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA217/)
+
+**Test pre-state**
+
+* Necessities to make a test environment is done
+
+**Test steps**
+
+1. Make a test environment with the command
+2. Test around
+3. Make sure it doesn't go to production
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature works or doesn't work as intended
+
+**Test result (Pass/Fail Criteria)**
+
+* PASS condition:
+  * All of the above expectations happen
+* FAIL condition:
+  * At least one of the above expectations fail",36,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/36,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:39,2025-03-20 14:19:00,,,,user story::proposed,0,0,,
+"US004: A a test engineer, I want to trigger specific automated tests once the build process is successful, so I can validate the latest changes without manual coordination or execution.","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/31)
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",37,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/37,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:40,2025-03-20 14:19:24,,Sprint 06,,user story::proposed,0,0,,
+US004: Trigger specific automated tests after build,"**Verify test case**
+
+* Test case designer: tester1
+* Date of creation 14.3.2025
+
+**Test description / objective**
+
+Makes sure the automated tests which are ran can be specified
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA022/)
+
+**Test pre-state**
+
+* All of the above functionalities are set up
+
+**Test steps**
+
+1. Click/run command to run a specific test
+2. Expect the test to run
+3. Expect a report
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature is implemented and works
+
+**To be taken into account during test**
+
+**Test result (Pass/Fail Criteria)**
+
+* PASS condition:
+  * All of the above expectations happen
+* FAIL condition:
+  * At least one of the above expectations fail",38,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/38,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:40,2025-03-20 14:19:24,,,,user story::proposed,0,0,,
+"US003: As team leader, I would like to be notified when builds fail or when tests fail on the main branch, allowing me to monitor the health of the development process","# Description:
+
+Send an email when
+
+- [ ] build fails
+- [ ] test fails
+
+ONLY needs to be done for the **main** branch
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/31)
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criteria
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",39,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/39,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:40,2025-03-20 14:19:25,,Sprint 05 - Gate 2,,user story::proposed,0,0,,
+US003: Notification when build or test fails on main branch,"**Verify test case**
+
+* Test case designer: tester1
+* Date of creation 14.3.2025
+
+**Test description / objective**
+
+Makes sure notifications happen when build or test fails
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA022/)
+
+**Test pre-state**
+
+* All of the above functionalities are set up
+
+**Test steps**
+
+1. Release a build that fails
+2. Expect notification
+3. Force test to fail
+4. Expect notification
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature is implemented and works
+
+**To be taken into account during test**
+
+* The faulty version should be rolled back immediately
+
+**Test result (Pass/Fail Criteria)**
+
+* PASS condition:
+  * All of the above expectations happen
+* FAIL condition:
+  * At least one of the above expectations fail",40,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/40,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:40,2025-03-20 14:19:25,,,,user story::proposed,0,0,,
+"US031: As a business owner, I want to easily set up an online store without worrying about technical complexities, so that I can focus on running my business","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the Feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/28)
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",41,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/41,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:41,2025-03-20 14:19:25,,Sprint 06,,user story::proposed,0,0,,
+US031: Set up online store easily,"**Verify test case**
+
+* Test case designer: tester1
+* Date of creation 14.3.2025
+
+**Test description / objective**
+
+Makes sure that online store can be setup easily
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA031/)
+
+**Test pre-state**
+
+* All of the above functionalities are set up
+
+**Test steps**
+
+1. Set up the online store
+2. Evaluate if its technically complex
+3. Conclusion should be that it's not
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature is implemented and works
+
+**To be taken into account during test**
+
+**Test result (Pass/Fail Criteria)**
+
+* PASS condition:
+  * All of the above expectations happen
+* FAIL condition:
+  * At least one of the above expectations fail",42,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/42,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:41,2025-03-20 14:19:25,,,,user story::proposed,0,0,,
+"US033: As a customer, I want to receive reliable and timely support for any technical issues I encounter, so that I can minimize downtime and maintain a smooth online store experience","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the Feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/28)
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",43,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/43,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:41,2025-03-20 14:19:25,,Sprint 06,,user story::proposed,0,0,,
+"US034: As a business owner, I want to access comprehensive analytics and reoorting on my store's performance, so that i can make informed decisions to improve my business","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the Feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/28)
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",44,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/44,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:41,2025-03-20 14:19:24,,Sprint 05 - Gate 2,,user story::proposed,0,0,,
+"US212: As a PrestaShop developer, I want to use a pre-configured Docker image that includes all the necessary PHP extensions and libraries for PrestaShop development","## Linked Requirements & Use Cases? 
+
+- [FEA003: Dockerized Service Production](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/29)
+- [System requirements for PrestaShop 8](https://devdocs.prestashop-project.org/8/basics/installation/system-requirements/)
+
+*Current [Definition of Done]()*
+
+- [x] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+
+--- 
+
+You can download such a container image from: https://gitlab.labranet.jamk.fi/replace-with-your-repository/presta-shop-base-image/container_registry
+
+It includes PrestaShop system requirements like PHP, PHP libraries, and Apache. You can use this container as the base image for other containers by using it as the value of the `FROM` directive in your `Dockerfile`",45,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/45,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:42,2025-03-20 14:23:53,,Sprint 05 - Gate 2,,user story::proposed,0,0,,
+"US211: As a PrestaShop developer, I want to mount my local code into the Docker container to easily make changes and see them reflected immediately","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the Feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/29)
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",46,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/46,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:42,2025-03-20 14:23:53,,Sprint 05 - Gate 2,,user story::proposed,0,0,,
+"US210: As a PrestaShop developer, I want to easily integrate my preferred database MariaDB, with my local PrestaShop development environment using Docker Compose","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the Feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/29)
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",47,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/47,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:42,2025-03-20 14:23:53,,Sprint 05 - Gate 2,,user story::proposed,0,0,,
+"US094: As a Developer, I would like to use Containers during development","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+* [Link to the Feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/29)
+
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",48,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/48,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:43,2025-03-20 14:19:25,,Sprint 04,,user story::proposed,0,0,,
+US095: As a service operator I would like to run service in Containers,"# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the Feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/29)
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",49,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/49,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:43,2025-03-20 14:19:25,,Sprint 04,,user story::proposed,0,0,,
+"US010: As a developer, I want to be notified of critical security vulnerabilities in our dependencies, so that I can quickly update them and minimize our risk","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to a feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/47)
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",50,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/50,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:43,2025-03-20 14:19:25,,Sprint 05 - Gate 2,,user story::proposed,0,0,,
+US010: Critical security vulnerability notifications,"**Verify test case**
+
+* Test case designer: tester1
+* Date of creation 7.3.2025
+
+**Test description / objective**
+
+security vulnerabilities send notifications
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA002/)
+
+**Test pre-state**
+
+* Start
+
+**Test steps**
+
+1. Make a security vulnerability
+2. Make sure a notification is coming trough
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature works or doesn't work as intended
+
+**To be taken into account during test**
+
+**Test result (Pass/Fail Criteria)**
+
+* PASS condition:
+  * Notification comes trough
+* FAIL condition:
+  * No notification",51,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/51,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:43,2025-03-20 14:19:25,,Sprint 05 - Gate 2,,user story::proposed,0,0,,
+"US021: As a Developer, I want to be able to deploy my code changes to production with a single click, so that I can quickly and easily release new features","# Description:
+
+* Topic text:  __USER STORY: As a DEVELOPER, I want to be able to deploy my code changes to production with one click, so that I can quickly and easily release new features. 
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/32)
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",52,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/52,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:43,2025-03-20 14:19:25,,Sprint 05 - Gate 2,,user story::proposed,0,0,,
+US021: Single click code changes to production,"**Verify test case**
+
+* Test case designer: tester1
+* Date of creation 7.3.2025
+
+**Test description / objective**
+
+Make sure CI/CD pipeline works for code changes
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA021/)
+
+**Test pre-state**
+
+* CI/CD pipeline setup for code changes
+
+**Test steps**
+
+1. Deploy code
+2. Expect it to go to production immediately
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature is implemented and works
+
+**To be taken into account during test**
+
+**Test result (Pass/Fail Criteria)**
+
+* PASS condition:
+  * Code goes to production automatically
+* FAIL condition:
+  * Code doesn't go to prodction",53,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/53,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:44,2025-03-20 14:19:25,,Sprint 05 - Gate 2,,user story::proposed,0,0,,
+"US007: As a security officer, I want this automated scanner to correctly report vulnerabilities in line with their severity and offer mitigation strategies where possible, to help me prioritize and address these issues appropriately","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to a feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/47)
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",54,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/54,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:44,2025-03-20 14:19:26,,Sprint 05 - Gate 2,,user story::proposed,0,0,,
+US007: Automatic vulnerability reports and mitigation strategies,"**Verify test case**
+
+* Test case designer: tester1
+* Date of creation 7.3.2025
+
+**Test description / objective**
+
+Automatic vulnerability reports
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA002/)
+
+**Test pre-state**
+
+* Start
+
+**Test steps**
+
+1. Make a security vulnerability
+2. Make sure reports are being made
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature works or doesn't work as intended
+
+**To be taken into account during test**
+
+**Test result (Pass/Fail Criteria)**
+
+* PASS condition:
+  * Vulnerability reports are being made
+  * Mitigation strategies are offered
+* FAIL condition:
+  * One of the above conditions don't pass",55,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/55,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:44,2025-03-20 14:19:26,,Sprint 05 - Gate 2,,user story::proposed,0,0,,
+Updating the team presentation materials,"# General task
+
+Describe what should be done?
+
+1. Keep your team presentation updated! (Power Point / or selected URL link)
+
+Make sure you can share easily some info to possible visitors:
+
+\-Team members and responsibility -Team feeling generally -Latest Road Map -Problems and issues? -Latest achievements (Features) -Currently under work (Features) -Next featuers on list -Used Workhours as a team and relation with Cost estimation as progress bar (Curren user hours/How much hours estimated orginally)
+
+* What could be ready for Demo day?
+
+**Who should work for this?**
+
+Whole team
+
+**Checklist as a starter**
+
+- [ ] Do X
+- [ ] Do Y",56,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/56,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:44,2025-03-20 14:21:44,,Sprint 05 - Gate 2,,task::general,0,0,,
+"US115 As a developer, I want to run regression tests after bug fixes, so that I can ensure the fix does not break other parts of the system","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/40)
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",57,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/57,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:44,2025-03-20 14:19:00,,Sprint 05 - Gate 2,,user story::proposed,0,0,,
+US115: Regression testing,"**Verify test case**
+
+* Test case designer: tester1
+* Date of creation 11.3.2025
+
+**Test description / objective**
+
+Makes sure regression tests work
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA086/)
+
+**Test pre-state**
+
+* Regression testing is setup
+
+**Test steps**
+
+1. Run regression test
+2. Expect a report
+3. Intentionally fail a test
+4. Expect failed report
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature is implemented and works
+
+**To be taken into account during test**
+
+**Test result (Pass/Fail Criteria)**
+
+* PASS condition:
+  * All of the above expectations happen
+* FAIL condition:
+  * At least one of the above expectations fail",58,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/58,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:44,2025-03-20 14:19:00,,Sprint 05 - Gate 2,,user story::proposed,0,0,,
+US067: As developer I would like to be able to use webservice API,"# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the Feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/27)
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",59,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/59,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:45,2025-03-20 14:19:26,,Sprint 06,,user story::proposed,0,0,,
+"US038: As a Project Manager I want to see regular reports from the vulnerability scanning tool, providing visibility into our software security practices, and ensuring that we're maintaining good cybersecurity hygiene","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to a feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/47)
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",60,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/60,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:45,2025-03-20 14:19:26,,Sprint 05 - Gate 2,,user story::proposed,0,0,,
+"US064:As a shop owner, I want to track sales by product, category, and customer, so I can identify best sellers and popular categories.","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the Feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/44)
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",61,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/61,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:45,2025-03-20 14:19:24,,Sprint 06,,user story::proposed,0,0,,
+"US069: As a shop owner, I want insights into when and why customers abandon their shopping carts, so I can implement strategies to reduce cart abandonment rates.","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",62,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/62,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:46,2025-03-20 14:19:26,,Sprint 05 - Gate 2,,user story::proposed,0,0,,
+"US071: As a business owner, I want to understand the pattern of sales over different periods (day, week, month, season, etc.), so I can better manage inventory and predict future sales trends.","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/46)
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",63,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/63,Open,project_manager1,narsu,"","",No,No,2025-03-07,2025-03-20 08:52:46,2025-03-20 14:19:26,,Sprint 04,,user story::proposed,0,0,,
+"US075: As a shop owner, I want to segment my customers based on their shopping patterns and preferences, so I can target them more effectively with personalized offers","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the Feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/43)
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",64,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/64,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:46,2025-03-20 14:19:25,,Sprint 06,,user story::proposed,0,0,,
+"US074: As a software developer, I want to implement algorithms for customer segmentation so that marketing teams can effectively target different customer groups","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the Feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/43)
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",65,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/65,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:46,2025-03-20 14:19:24,,Sprint 06,,user story::proposed,0,0,,
+"US079: As a software developer, I want to design a scalable architecture for real-time analytics so that the system can provide up-to-date insights without performance lags.","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the Feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/43)
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",66,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/66,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:47,2025-03-20 14:19:26,,Sprint 05 - Gate 2,,user story::proposed,0,0,,
+"US078: As a software developer, I want to build a data collection system for tracking cart abandonment events so that useful insights can be extracted for reducing abandonment rates","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the Feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/43)
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",67,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/67,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:47,2025-03-20 14:19:26,,Sprint 05 - Gate 2,,user story::proposed,0,0,,
+"No ""Account created"" message.","## Summary
+
+No message such as ""Account created"" upon creating account.
+
+
+Steps to reproduce
+
+Create a new account.
+
+
+## What is the current bug behavior?
+
+Account is created, but no acknowledgement is given.
+
+
+## What is the expected correct behavior?
+
+The website should notify the user in some way that the account creation was successful.
+
+
+## Relevant logs and/or screenshots
+
+(Paste any relevant logs - please use code blocks (```) to format console output,
+logs, and code as it's very hard to read otherwise.)
+
+
+## Possible fixes
+
+(If you can, link to the line of code that might be responsible for the problem)",68,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/68,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:47,2025-03-20 14:26:01,,Backlog,,bug::new,0,0,,
+Overlapping elements,"## Summary
+
+Occasionally sublevel of titles of ""Clothes, accessories, art"" which show for example ""men and women"" in clothes is over the other text preventing clicking them.
+
+
+Steps to reproduce
+
+Click on for example ""clothes"" and leave your mouse on it, also happens if you move your mouse back on the button too quickly
+
+
+## What is the current bug behavior?
+
+Elements are overlapping, preventing access to some buttons.
+
+
+## What is the expected correct behavior?
+
+The ""dropdown"" element should be below, not overlapping the other stuff.
+
+
+## Relevant logs and/or screenshots
+
+![kuva](/uploads/6de9304b7a5f2a160845b3638422c9ef/kuva.png)
+![kuva](/uploads/41c5ed09e9b171bc8512b05462d1b231/kuva.png)
+
+## Possible fixes
+
+(If you can, link to the line of code that might be responsible for the problem)",69,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/69,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:47,2025-03-20 14:26:01,,Backlog,,bug::new,0,0,,
+"Inconsistency in ""Art""  category","## Summary
+
+""Art"" has no sublevel of titles. Or ""Dropdown"" menu.
+
+
+Steps to reproduce
+
+Click on ""Arts""
+
+
+## What is the current bug behavior?
+
+The button takes you directly to all art items, no dropdown menu.
+
+
+## What is the expected correct behavior?
+
+Dropdown menu for filtering, for example ""art"" is divided into ""posters"" and ""graphics"".
+
+
+## Relevant logs and/or screenshots
+![kuva](/uploads/abce223e259d9a2c6e086c364ebc95c0/kuva.png)
+
+
+## Possible fixes
+
+(If you can, link to the line of code that might be responsible for the problem)",70,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/70,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:47,2025-03-20 14:26:01,,Backlog,,bug::new,0,0,,
+Misleading 20% off banner,"## Summary
+
+""20% off button clothes"", includes mugs and picture frames.
+
+Steps to reproduce
+
+Click on banner on the homepage.
+
+
+## What is the current bug behavior?
+
+The banner is misleading, and some items it shows are not even on sale.
+
+
+## What is the expected correct behavior?
+
+Should only show items categorized as ""Clothes"" that are 20% off.
+
+
+## Relevant logs and/or screenshots
+
+![kuva](/uploads/e45166ba2db27ffdd64a36fa17ada10e/kuva.png)
+![kuva](/uploads/62c59438c5c4a168c0b734b99ce08de6/kuva.png)
+
+## Possible fixes
+
+(If you can, link to the line of code that might be responsible for the problem)",71,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/71,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:47,2025-03-20 14:26:01,,Backlog,,bug::new,0,0,,
+"US032: As a developer, I want to easily integrate my custom applications and services with the PrestaShop platform, so that I can extend its functionality","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the Feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/27)
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",72,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/72,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:48,2025-03-20 14:19:26,,Sprint 05 - Gate 2,,user story::proposed,0,0,,
+FEA002 Test case,"# Test case for FEA002
+
+| | |
+|:-:|:-:|
+| Test Case description | Test cases for FEA002 requirements |
+| Test Case ID | 001 |
+| Author/Designer | tester1 | 
+| Date of creation | 18.2.2025 |
+
+**Test description / objective**
+
+This test case should verify that HTTPS is enabled and password can be reset
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)   
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA002/)
+
+**Test pre-state**
+* Start
+
+**Test steps**
+
+1. Check that the site starts with ""HTTPS""
+###
+1. Press reset password button
+2. Expect email with link to reset password
+3. Enter new password
+4. Try to login with old password
+5. Expect fail
+6. Try to login with new password
+7. Expect success
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature works or doesn't work as intended
+
+**To be taken into account during test**
+
+* Resetting the password must only be available to the actual owner of the account
+* Email link should expire after a certain amount of time
+
+
+**Test result (Pass/Fail Criteria)**
+
+
+* PASS condition:
+    - HTTPS at the start of URL
+    - Reset password works 
+* FAIL condition:
+    - URL does not start with HTTPS
+    - The new password doesn't work",73,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/73,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:48,2025-03-20 14:23:02,,,,Test Case::Idea,0,0,,
+FEA003 Test case,"# Test case for FEA003
+
+
+| | |
+|:-:|:-:|
+| Test Case description | Test cases for FEA003 requirements |
+| Test Case ID | 002 |
+| Author/Designer | tester1 | 
+| Date of creation | 18.2.2025 |
+
+**Test description / objective**
+
+This test case should verify that there is:
+* A pre-configured Docker image
+* Local code can be mounted into the docker container
+* MariaDB is in use with PrestaShop using Docker Compose
+* Containers are in use during developement
+* Service is ran in containers
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)   
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA004/)
+
+**Test pre-state**
+
+* Docker setup
+
+**Test steps**
+
+1. Make a new image with the pre-configured docker image
+2. Check that all of the necessary PHP extensions and libraries are included
+3. Mount local code into the Docker container
+2. Check that changes have happened
+4. Check that MariaDB is integrated
+5. Check that containers are in use during developement
+6. Check that service is ran in containers
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature is implemented
+
+**To be taken into account during test**
+
+
+**Test result (Pass/Fail Criteria)**
+
+
+* PASS condition:
+    - All of the mentioned things are in use
+* FAIL condition: 
+    - Atleast one of the mentioned things aren't in use",74,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/74,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:48,2025-03-20 14:23:02,,,,Test Case::Idea,0,0,,
+FEA004 Test case,"# Test case for FEA004
+
+
+| | |
+|:-:|:-:|
+| Test Case description | Test cases for FEA004 requirements |
+| Test Case ID | 003 |
+| Author/Designer | tester1 | 
+| Date of creation | 18.2.2025 |
+
+**Test description / objective**
+
+This test case should verify that there is all the necessary data collected from customers
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)   
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA004/)
+
+**Test pre-state**
+* Data gathering
+
+**Test steps**
+
+1. Multiple accounts should be simulated going to the store and doing different things
+2. Check that all the required data is being collected
+3. Check that customers are being segmented based on the data
+4. Check that reports are being generated
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature is implemented and works
+
+**To be taken into account during test**
+
+* There should be no performance issues due to the feature
+
+**Test result (Pass/Fail Criteria)**
+
+
+* PASS condition:
+    - Data is being collected
+    - Customer's preferences should be identified
+    - Reports are being generated
+    - Reports and customer segmenting makes sense
+* FAIL condition:
+    - Atleast one of the mentioned things aren't in use",75,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/75,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:48,2025-03-20 14:23:02,,,,Test Case::Idea,0,0,,
+FEA010 Test case,"# Test case for FEA010
+
+
+| | |
+|:-:|:-:|
+| Test Case description | Test cases for FEA010 requirements |
+| Test Case ID | 004 |
+| Author/Designer | tester1 | 
+| Date of creation | 18.2.2025 |
+
+**Test description / objective**
+
+This test case should verify that reports of security vulnerabilities are being made and developers are being notified of security vulnerabilities
+
+**Links to requirements or other sources**
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)   
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA010/)
+
+**Test pre-state**
+* security vulnerability reports are set up
+
+**Test steps**
+
+1. Make a security vulnerability
+2. Make sure reports are being made
+3. Make sure a notification is coming trough
+4. Make sure regular reports are being made
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature is implemented and works
+
+**To be taken into account during test**
+
+
+**Test result (Pass/Fail Criteria)**
+
+
+* PASS condition:
+    - Reports are being made
+    - Notification comes
+* FAIL condition:
+    - No reports
+    - No notifications",76,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/76,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:48,2025-03-20 14:23:02,,,,Test Case::Idea,0,0,,
+FEA021 Test case,"# Test case for FEA021
+
+
+| | |
+|:-:|:-:|
+| Test Case description | Test cases for FEA021 requirements |
+| Test Case ID | 004 |
+| Author/Designer | tester1 | 
+| Date of creation | 18.2.2025 |
+
+**Test description / objective**
+
+Make sure CI/CD pipeline works for all features
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)   
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA021/)
+
+**Test pre-state**
+* CI/CD pipeline setup for all features
+
+**Test steps**
+
+1. Deploy code
+2. Expect it to go to production immediately
+3. Expect tests to run automatically
+4. Expect software to be deployed to different environments
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature is implemented and works
+
+**To be taken into account during test**
+
+
+**Test result (Pass/Fail Criteria)**
+
+
+* PASS condition:
+    - All of the above expectations happen
+* FAIL condition:
+    - At least one of the above expectations fail",77,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/77,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:48,2025-03-20 14:23:02,,,,Test Case::Idea,0,0,,
+FEA022 Test case,"# Test case for FEA022
+
+
+| | |
+|:-:|:-:|
+| Test Case description | Test cases for FEA022 requirements |
+| Test Case ID | 006 |
+| Author/Designer | tester1 | 
+| Date of creation | 18.2.2025 |
+
+**Test description / objective**
+
+Makes sure rollback works, testing quickly works, failed builds sends notifications
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)   
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA022/)
+
+**Test pre-state**
+* All of the above functionalities are set up
+
+**Test steps**
+
+1. Deploy something
+2. Try to rollback
+3. Expect the deployment to be rolled back
+4. Try to trigger one of the automated tests
+5. Expect it to run
+6. Deploy a build that should fail
+7. Expect a notification about the failure
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature is implemented and works
+
+**To be taken into account during test**
+
+* Should be careful to not rollback something important
+
+**Test result (Pass/Fail Criteria)**
+
+
+* PASS condition:
+    - All of the above expectations happen
+* FAIL condition:
+    - At least one of the above expectations fail",78,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/78,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:48,2025-03-20 14:23:02,,,,Test Case::Idea,0,0,,
+FEA031 Test case,"# Test case for FEA031
+
+
+| | |
+|:-:|:-:|
+| Test Case description | Test cases for FEA031 requirements |
+| Test Case ID | 007 |
+| Author/Designer | tester1 | 
+| Date of creation | 18.2.2025 |
+
+**Test description / objective**
+
+Makes sure the owner can see analytics on store's performances
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)   
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA031/)
+
+**Test pre-state**
+* All of the above functionalities are set up
+
+**Test steps**
+
+1. Try to hinder store's performance
+2. Expect the analytics to reflect on that
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature is implemented and works
+
+**To be taken into account during test**
+
+**Test result (Pass/Fail Criteria)**
+
+
+* PASS condition:
+    - All of the above expectations happen
+* FAIL condition:
+    - At least one of the above expectations fail",79,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/79,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:49,2025-03-20 14:23:02,,,,Test Case::Idea,0,0,,
+FEA032 Test cases,"# Test case for FEA032
+
+
+| | |
+|:-:|:-:|
+| Test Case description | Test cases for FEA032 requirements |
+| Test Case ID | 008 |
+| Author/Designer | tester1 | 
+| Date of creation | 18.2.2025 |
+
+**Test description / objective**
+
+Makes sure API works, custom applications and services works
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)   
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA032/)
+
+**Test pre-state**
+* All of the above functionalities are set up
+
+**Test steps**
+
+1. Integrate custom application
+2. Expect it to work as expected
+3. Try to call something from the API
+4. Expect it to response with the expected values
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature is implemented and works
+
+**To be taken into account during test**
+
+
+**Test result (Pass/Fail Criteria)**
+
+
+* PASS condition:
+    - All of the above expectations happen
+* FAIL condition:
+    - At least one of the above expectations fail",80,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/80,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:49,2025-03-20 14:23:03,,,,Test Case::Idea,0,0,,
+FEA063 Test case,"# Test case for FEA063
+
+
+| | |
+|:-:|:-:|
+| Test Case description | Test cases for FEA063 requirements |
+| Test Case ID | 009 |
+| Author/Designer | tester1 | 
+| Date of creation | 18.2.2025 |
+
+**Test description / objective**
+
+Makes sure tests run automatically
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)   
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA063/)
+
+**Test pre-state**
+
+* Test automation is integrated into the CI/CD pipeline
+
+**Test steps**
+
+1. Push code with bugs
+2. Expect test to automatically run
+3. Expect the test to fail and report back
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature is implemented and works
+
+**To be taken into account during test**
+
+**Test result (Pass/Fail Criteria)**
+
+
+* PASS condition:
+    - All of the above expectations happen
+* FAIL condition:
+    - At least one of the above expectations fail",81,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/81,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:49,2025-03-20 14:23:03,,,,Test Case::Idea,0,0,,
+FEA067 Test case,"# Test case for FEA067
+
+
+| | |
+|:-:|:-:|
+| Test Case description | Test cases for FEA067 requirements |
+| Test Case ID | 010 |
+| Author/Designer | tester1 | 
+| Date of creation | 18.2.2025 |
+
+**Test description / objective**
+
+Makes sure test automation cases work
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)   
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA067/)
+
+**Test pre-state**
+* All of the above functionalities are set up
+
+**Test steps**
+
+1. Have a broken feature
+2. Run Robot Framework code
+3. Expect test to report back
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature is implemented and works
+
+**To be taken into account during test**
+
+
+**Test result (Pass/Fail Criteria)**
+
+
+* PASS condition:
+    - Robot Framework is in use
+    - It works
+* FAIL condition:
+    - Robot Framework code fails",82,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/82,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:49,2025-03-20 14:23:03,,,,Test Case::Idea,0,0,,
+FEA086 Test case,"# Test case for FEA086
+
+
+| | |
+|:-:|:-:|
+| Test Case description | Test cases for FEA086 requirements |
+| Test Case ID | 011 |
+| Author/Designer | tester1 | 
+| Date of creation | 18.2.2025 |
+
+**Test description / objective**
+
+Makes sure regression tests work
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)   
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA086/)
+
+**Test pre-state**
+
+* Regression testing is setup
+
+**Test steps**
+
+1. Have someone break an old feature
+2. Expect regression test to find out that its broken
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature is implemented and works
+
+**To be taken into account during test**
+
+**Test result (Pass/Fail Criteria)**
+
+
+* PASS condition:
+    - All of the above expectations happen
+* FAIL condition:
+    - At least one of the above expectations fail",83,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/83,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:49,2025-03-20 14:23:03,,,,Test Case::Idea,0,0,,
+FEA181 Test case,"# Test case for FEA181
+
+
+| | |
+|:-:|:-:|
+| Test Case description | Test cases for FEA181 requirements |
+| Test Case ID | 012 |
+| Author/Designer | tester1 | 
+| Date of creation | 18.2.2025 |
+
+**Test description / objective**
+
+Makes sure tracking sales is possible
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)   
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA181./)
+
+**Test pre-state**
+
+* All of the above functionalities are set up
+
+**Test steps**
+
+1. Simulate a lot of people buying a lot of different products
+2. Expect statistics to be shown to the owner
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature is implemented and works
+
+**To be taken into account during test**
+
+
+**Test result (Pass/Fail Criteria)**
+
+
+* PASS condition:
+    - All of the above expectations happen
+* FAIL condition:
+    - At least one of the above expectations fail",84,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/84,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:50,2025-03-20 14:23:03,,,,Test Case::Idea,0,0,,
+FEA182 Test case,"# Test case for FEA182
+
+
+| | |
+|:-:|:-:|
+| Test Case description | Test cases for FEA182 requirements |
+| Test Case ID | 013 |
+| Author/Designer | tester1 | 
+| Date of creation | 18.2.2025 |
+
+**Test description / objective**
+
+Makes sure shop owner gets insight on why customers cancel shopping
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)   
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA182/)
+
+**Test pre-state**
+* All of the above functionalities are set up
+
+**Test steps**
+
+1. Simulate a lot of people adding stuff to cart
+2. Have them cancel their shopping carts at random times
+3. Expect insights to shop owner
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature is implemented and works
+
+**To be taken into account during test**
+
+
+**Test result (Pass/Fail Criteria)**
+
+
+* PASS condition:
+    - All of the above expectations happen
+* FAIL condition:
+    - At least one of the above expectations fail",85,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/85,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:50,2025-03-20 14:23:03,,,,Test Case::Idea,0,0,,
+FEA183 Test case,"# Test case for FEA183
+
+
+| | |
+|:-:|:-:|
+| Test Case description | Test cases for FEA183 requirements |
+| Test Case ID | 014 |
+| Author/Designer | tester1 | 
+| Date of creation | 18.2.2025 |
+
+**Test description / objective**
+
+Makes sure owner gets information on when sales happen
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)   
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA183/)
+
+**Test pre-state**
+
+* All of the above functionalities are set up
+
+**Test steps**
+
+1. Simulate a lot of people buying stuff at a different time
+2. Expect accurate analytics
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature is implemented and works
+
+**To be taken into account during test**
+
+
+**Test result (Pass/Fail Criteria)**
+
+
+* PASS condition:
+    - All of the above expectations happen
+* FAIL condition:
+    - At least one of the above expectations fail",86,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/86,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:50,2025-03-20 14:23:03,,,,Test Case::Idea,0,0,,
+FEA217 Test case,"# Test case for FEA217
+
+
+| | |
+|:-:|:-:|
+| Test Case description | Test cases for FEA217 requirements |
+| Test Case ID | 015 |
+| Author/Designer | tester1 | 
+| Date of creation | 18.2.2025 |
+
+**Test description / objective**
+
+Makes sure tests are being ran when new content is being pushed into the docker CI/CD pipeline
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)   
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA217/)
+
+**Test pre-state**
+
+* All of the above functionalities are set up
+
+**Test steps**
+
+1. Push content into CI/CD pipeline
+2. Expect tests to automatically run
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature is implemented and works
+
+**To be taken into account during test**
+
+
+**Test result (Pass/Fail Criteria)**
+
+
+* PASS condition:
+    - All of the above expectations happen
+* FAIL condition:
+    - At least one of the above expectations fail",87,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/87,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:50,2025-03-20 14:23:03,,,,Test Case::Idea,0,0,,
+"US022: As a system administrator, I want to be able to quickly and easily roll back a deployment in case of issues, so that the service availability is minimally impacted","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/31)
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",88,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/88,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:51,2025-03-20 14:19:26,,Sprint 05 - Gate 2,,user story::proposed,0,0,,
+US022: Easy rollback,"**Verify test case**
+
+* Test case designer: tester1
+* Date of creation 11.3.2025
+
+**Test description / objective**
+
+Makes sure rollback works
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA022/)
+
+**Test pre-state**
+
+* All of the above functionalities are set up
+
+**Test steps**
+
+1. Deploy something
+2. Try to rollback
+3. Expect the deployment to be rolled back
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature is implemented and works
+
+**To be taken into account during test**
+
+* Should be careful to not rollback something important
+
+**Test result (Pass/Fail Criteria)**
+
+* PASS condition:
+  * All of the above expectations happen
+* FAIL condition:
+  * At least one of the above expectations fail",89,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/89,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:51,2025-03-20 14:19:27,,Sprint 05 - Gate 2,,user story::proposed,0,0,,
+Prepare personal LinkedIn message!,"# General task
+
+Describe what should be done?
+
+1. prepare a personal post for LinkedIn which will be sent before End Seminar Day
+2. More guides at: https://wimma-capstone.pages.labranet.jamk.fi/support-material/7.%20GEN/COMMUNICATION/make-you-visible/
+3. ..
+
+**Who should work for this?**
+
+
+**Checklist as a starter**
+
+- [ ] Do X
+- [ ] Do Y",90,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/90,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:51,2025-03-20 14:26:27,,Sprint 05 - Gate 2,,task::general,0,0,,
+Prepare for status check in S5-G2 !!,"# General task
+
+* We arrange ""Status Check"" at the end of sprint 5.
+* I hope we could invite a customer or other company representative
+
+At Status Check we will check through:
+
+Teams update status, hours, roadmap We are selecting 2-3 teams for status check and discuss through the current situation
+
+No Panic! This is training for future :)
+
+Check list: https://zzpp0920.pages.labranet.jamk.fi/en-2025/3.%20Project%20Phases/GATE2%20-%20Implement%2BTest/GATE2-review/
+
+**Who should work for this?**
+
+
+**Checklist as a starter**
+
+- [ ] Do X
+- [ ] Do Y",91,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/91,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:51,2025-03-20 14:21:44,,Sprint 05 - Gate 2,,task::general,0,0,,
+Make sure you are ready to introduce your team + show demo,"# General task
+
+Describe what should be done?
+
+1. Check you team specific links https://zzpp0920.pages.labranet.jamk.fi/en2024/Official%20events/demo-day/
+2. Update Current Status
+3. Make sure all team members are available to introduce them selfs
+4. All teams will have on ZOOM Sub Channel to arrange demo
+5. All teams will visit four other teams to make sure
+6. Share Linked In message!!!
+
+**Who should work for this?**
+
+
+**Checklist as a starter**
+
+- [ ] Do X
+- [ ] Do Y",92,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/92,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:51,2025-03-20 14:21:44,,Sprint 05 - Gate 2,,task::general,0,0,,
+US092: As a service provider we need to enable HTTPS,"# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the Feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/30)
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",93,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/93,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:51,2025-03-20 14:19:27,,Sprint 05 - Gate 2,,user story::proposed,0,0,,
+US092: HTTPS enabled,"**Verify test case**
+
+* Test case designer: tester1
+* Date of creation 7.3.2025
+
+
+**Test description / objective**
+
+This test case should verify that HTTPS is enabled
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA002/)
+
+**Test pre-state**
+
+* Start
+
+**Test steps**
+
+1. Check that the site URL starts with ""HTTPS""
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature works or doesn't work as intended
+
+**Test result (Pass/Fail Criteria)**
+
+* PASS condition:
+  * HTTPS at the start of URL
+* FAIL condition:
+  * URL does not start with HTTPS",94,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/94,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:52,2025-03-20 14:19:27,,Sprint 05 - Gate 2,,user story::proposed,0,0,,
+"US121: As a developer, I want to create a password reset fuction, so that users can regain access if they forget their password.","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the Feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/30)
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",95,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/95,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:52,2025-03-20 14:19:00,,Sprint 05 - Gate 2,,user story::proposed,0,0,,
+US121: Password reset function,"**Verify test case**
+
+* Test case designer: tester1
+* Date of creation 7.3.2025
+
+**Test description / objective**
+
+This test case should verify that password can be reset
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA002/)
+
+**Test pre-state**
+
+* Start
+
+**Test steps**
+
+1. Press reset password button
+2. Expect email with link to reset password
+3. Enter new password
+4. Try to login with old password
+5. Expect fail
+6. Try to login with new password
+7. Expect success
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature works or doesn't work as intended
+
+**To be taken into account during test**
+
+* Resetting the password must only be available to the actual owner of the account
+* Email link should expire after a certain amount of time
+
+**Test result (Pass/Fail Criteria)**
+
+* PASS condition:
+  * Reset password works
+* FAIL condition:
+  * The new password doesn't work",96,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/96,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:52,2025-03-20 14:19:00,,Sprint 05 - Gate 2,,user story::proposed,0,0,,
+"US076: As a service provider, I want to implement an effective system for generating detailed sales reports so that store owners can easily access and use this data for business analysis","# Description:
+
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
+
+## Linked Requirements & Use Cases? 
+
+* [Link to the Feature](https://gitlab.labranet.jamk.fi/groups/Replace-with-your-repository/-/epics/43)
+
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
+
+*Current [Definition of Done]()*
+
+- [ ] Implemented
+- [ ] Pair Reviewed
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
+
+
+## Acceptance Criterias
+
+- [ ] Check if...
+- [ ] Check also...
+- [ ] Check if...
+- [ ] Check if... test case [Link to test case]()
+- [ ] Check if...",97,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/97,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:52,2025-03-20 14:19:26,,Sprint 05 - Gate 2,,user story::proposed,0,0,,
+US076: Sales report generating,"**Verify test case**
+
+* Test case designer: tester1
+* Date of creation 7.3.2025
+
+**Test description / objective**
+
+This test case should verify that reports from sales are being generated
+
+**Links to requirements or other sources**
+
+* Requirements: [ReqId](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/requirement-specification/)
+* Use case: [Use Case](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/templates/template-usecase/)
+* Feature: [Feature](https://replace_this_with_your_gitlab_page_link.pages.labranet.jamk.fi/core/20-Requirement-management/FEA004/)
+
+**Test pre-state**
+
+* Data gathering
+
+**Test steps**
+
+1. Multiple accounts should be simulated going to the store and doing different things
+2. Check that reports are being generated
+
+**Test end-state**
+
+After the test is done, it can be validated that the feature is implemented and works
+
+**To be taken into account during test**
+
+* There should be no performance issues due to the feature
+
+**Test result (Pass/Fail Criteria)**
+
+* PASS condition:
+  * Reports are being generated
+* FAIL condition:
+  * No reports",98,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/98,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:52,2025-03-20 14:19:24,,Sprint 05 - Gate 2,,user story::proposed,0,0,,
+Propose media + image for End Seminar Page.,"# General task
+
+I hope we can find a image for end seminar invitation page
+
+1. Propose image at #social-media channel on discord
+2. Give upvotes for good ones
+3. I will replace image before Friday
+
+Invitation and current (Rocket image)
+
+https://zzpp0920.pages.labranet.jamk.fi/en-2025/3.%20Project%20Phases/GATE4%20-%20Delivery%20Day/end-seminar-day/
+
+**Who should work for this?**
+
+
+**Checklist as a starter**
+
+- [ ] Do X
+- [ ] Do Y",99,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/99,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:53,2025-03-20 14:21:44,,Backlog,,task::general,0,0,,
+Remember Sustainable Studies!!,Try to progress with Moodle course about Sustainable Studies!,100,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/100,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:53,2025-03-20 14:21:44,,,,task::general,0,0,,
+Update Learning Diary,Please update your learning diary!,101,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/101,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:53,2025-03-20 14:21:44,,,,task::general,0,0,,
+Save the Robot Framework regression test prepared for the product in the form of a video,"",102,https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-tt00cd82-core-template-20032025-v3/-/issues/102,Open,project_manager1,narsu,"","",No,No,,2025-03-20 08:52:53,2025-03-20 14:21:44,,,,task::general,0,0,,

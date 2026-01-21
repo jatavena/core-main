@@ -1,0 +1,46 @@
+site_name: ECSP1 Project by DevLetics
+site_url: https://jamkit.pages.labranet.jamk.fi/project-templates/opf-tt00cd82-core-template-20032025-v4/
+site_description: Default Description
+site_author: Firstname Lastname / JAMK IT
+
+docs_dir: docs
+site_dir: public
+
+plugins:
+    - glightbox
+    - search
+markdown_extensions:
+    - plantuml_markdown:
+        server: https://plantuml.labranet.jamk.fi
+    - toc:
+        baselevel: 1
+    - admonition
+    - tables
+    - sane_lists
+    - codehilite
+    - pymdownx.superfences
+    - pymdownx.critic:
+        mode: view
+
+theme:
+    name: material
+    language: 'en'
+    history_buttons: false
+    article_nav_bottom: false
+    article_nav_top: false
+    custom_dir: overrides
+    palette:
+        scheme: default
+    font:
+        text: 'Lato'
+        code: 'Lato'
+    logo: 'assets/your-team-logo.png'
+    features:
+        - instant
+extra_css:
+    - assets/extra.css
+    - https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.7.3/css/lightgallery.min.css
+extra_javascript:
+    - https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+    - https://unpkg.com/mermaid@8.6.4/dist/mermaid.min.js
+    - assets/lg.js
